@@ -1,0 +1,4 @@
+[-1.48317896]
+<LinearLayer 'in'>
+<SigmoidLayer 'hidden0'>
+<LinearLayer 'out'>
